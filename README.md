@@ -61,11 +61,10 @@ Follow these steps to get started:
 
 This repository includes the following key notebooks:
 
-1. **01_Introduction_to_NumPy.ipynb**: Basics of NumPy, including array creation and operations.
-2. **02_NumPy_Arrays.ipynb**: Deep dive into NumPy arrays, indexing, and slicing.
-3. **03_Mathematical_Operations.ipynb**: Performing mathematical operations with NumPy.
-4. **04_Linear_Algebra.ipynb**: Using NumPy for linear algebra tasks.
-5. **05_Broadcasting_and_Performance.ipynb**: Understanding broadcasting and optimizing performance.
+1. **Mastering_Numpy_01.ipynb**: Basics of NumPy, including array creation and operations.
+2. **Mastering_Numpy_02.ipynb**: Deep dive into NumPy arrays, indexing, and slicing.
+3. **Mastering_Numpy_03.ipynb**: Performing mathematical operations with NumPy.
+4. **Mastering_Numpy_04.ipynb**: Using NumPy for linear algebra tasks.
 
 Each notebook builds upon the previous one, ensuring a cohesive learning experience.
 
